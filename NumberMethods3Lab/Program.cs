@@ -2,7 +2,7 @@
 using System.Text;
 using static System.Math;
 
-namespace Laba_3
+namespace NumberMethods
 {
     public class Program
     {
